@@ -17,10 +17,10 @@ An identity and Access Management Analyst building hands-on experience through l
 
 ## 👨‍💻Current Focus
 - OKTA Professsional Certificate
-- Active Directory - Microsoft Entra ID
+- Active Directory - Hybrid
 - User Lifecycle Management
 - RBAC and Group Policy
-- SSO \MFA
+- SSO \ MFA
 - Access Reviews
 
 ## 💼 Portfolio Structure
