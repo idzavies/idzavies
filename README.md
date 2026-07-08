@@ -5,4 +5,5 @@ An identity and Access Management Analyst building hands-on experience through l
 ### About Me
 - MSc. Information Systems Management
 - Currently Pursuing OKTA Certified Professional
+- Security+ Certified
 ##
