@@ -1,4 +1,4 @@
-## Hi, I'm Ivy! 👋
+## Hi there, I'm Ivy! 👋
 
 An identity and Access Management Analyst building hands-on experience through labs and certifications.
 
