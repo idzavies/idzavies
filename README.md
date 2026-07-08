@@ -10,7 +10,7 @@ An identity and Access Management Analyst building hands-on experience through l
 - Currently Pursuing OKTA Professional Certification
 
   
-## Current Focus
+## 👨‍💻Current Focus
 - OKTA Professsional Certificate
 - Active Directory - Microsoft Entra ID
 - User Lifecycle Management
@@ -18,4 +18,10 @@ An identity and Access Management Analyst building hands-on experience through l
 - SSO \MFA
 - Access Reviews
 
-## Portfolio Structure
+## 💼 Portfolio Structure
+- OKTA Lab
+- Active Directory Lab
+
+
+<h2> 🤳 Connect with me:</h2>
+linkedin: https://linkedin.com/in/ivy-dzavies
