@@ -1,5 +1,5 @@
 ## Hi there, I'm Ivy! 👋
-An identity and Access Management Analyst building hands-on experience through labs and certifications.
+A passionate identity and Access Management (IAM) enthusiast learning and building hands-on experience through home labs while obtaining certifications.
 
 
 ### 🚀About Me
