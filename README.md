@@ -1,5 +1,5 @@
 ## Hi there, I'm Ivy! 👋
-A passionate identity and Access Management (IAM) enthusiast learning and building hands-on experience through home labs while obtaining certifications.
+A passionate identity and Access Management (IAM) enthusiast learning and building hands-on experience through home labs while obtaining certification skills.
 
 
 ### 🚀About Me
@@ -23,10 +23,13 @@ A passionate identity and Access Management (IAM) enthusiast learning and buildi
 - SSO \ MFA
 - Access Reviews
 
+
 ## 💼 Portfolio Structure
 - OKTA Lab
 - Active Directory Lab
 
 
-<h2> 🤳 Connect with me:</h2>
-linkedin: https://linkedin.com/in/ivy-dzavies
+## 🏆Career Goal
+*"To become an efficient and skilled IAM Engineer who provides solutions and expertise to help enterprises digital security concerns".*
+<h2> 🤳Connect with me:</h2>
+LINKEDIN>> https://linkedin.com/in/ivy-dzavies
