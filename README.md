@@ -1,5 +1,5 @@
 ## Hi there, I'm Ivy! 👋
-A passionate identity and Access Management (IAM) enthusiast learning and building hands-on experience through home labs while obtaining certification skills.
+A passionate identity and Access Management (IAM) enthusiast learning and building hands-on expertise through home labs while acquiring certification skills.
 
 
 ### 🚀About Me
