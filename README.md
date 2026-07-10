@@ -4,7 +4,7 @@ A passionate identity and Access Management (IAM) engineer learning and building
 
 ### 🚀About Me
 
-- IAM and Identity Enthusiast
+- IAM and digital identity enthusiast
 - IT Help Desk Work Experience
 - Currently Pursuing OKTA Professional Certification
 
