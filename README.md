@@ -24,14 +24,12 @@ A passionate identity and Access Management (IAM) engineer learning and building
 - OKTA Professsional Certificate
 - Active Directory - Hybrid
 - User Lifecycle Management
-- RBAC and Group Policy
-- SSO \ MFA
-- Access Reviews
+- RBAC and Group Policies
 
 
 ## 💼 Portfolio Structure
 - OKTA Lab
-- Active Directory Lab
+- Active Directory Lab (Hybrid)
 
 
 ## 🏆Career Goal
