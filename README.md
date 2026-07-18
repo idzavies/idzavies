@@ -10,7 +10,9 @@ A passionate identity and Access Management (IAM) engineer learning and building
 
 
 ## 🏆Certifications
-* Security +
+![CompTIA_SECURITY+](https://img.shields.io/badge/COMPTIA_SECURITY_+-EB5424?style=flat-square&logo=ComptiaSecurity+&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/WINDOWS_SERVER_2022-FFDB58?style=flat-square)
+
 * MSc Information Systems Management
 * Bachelors in Business Administration
   
