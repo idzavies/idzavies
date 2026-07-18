@@ -10,9 +10,11 @@ A passionate identity and Access Management (IAM) engineer learning and building
 
 
 ## 🏆Certifications
-![CompTIA_SECURITY+](https://img.shields.io/badge/COMPTIA_SECURITY_+-EB5424?style=flat-square&logo=ComptiaSecurity+&logoColor=white)
+![CompTIA_SECURITY+](https://img.shields.io/badge/COMPTIA_SECURITY_+-FF2500?style=flat-square&logo=ComptiaSecurity+&logoColor=white)
 ![OKTA](https://img.shields.io/badge/OKTA-0080FE?style=flat-square&logo=okta&logoColor=white)
 ![MICROSOFT_ENTRA](https://img.shields.io/badge/ENTRA_ID-0000AD?style=flat-square)
+![PORTFOLIO](https://img.shields.io/badge/LABS-800000?style=flat-square)
+![LINKEDIN](https://img.shields.io/badge/LINKEDIN-6495ED?style=flat-square)
 
 
 ---
@@ -20,6 +22,11 @@ A passionate identity and Access Management (IAM) engineer learning and building
 * Bachelors in Business Administration
   
 
+## 💼 Portfolio Structure
+- OKTA Lab
+- Active Directory Lab (Hybrid)
+
+  
 ## 👨‍💻Current Focus
 - OKTA Professsional Certificate
 - Active Directory - Hybrid
@@ -27,12 +34,6 @@ A passionate identity and Access Management (IAM) engineer learning and building
 - RBAC and Group Policies
 
 
-## 💼 Portfolio Structure
-- OKTA Lab
-- Active Directory Lab (Hybrid)
-
-
 ## 🏆Career Goal
 *"To become an efficient and skilled IAM Engineer who provides solutions and expertise to help enterprises digital security concerns".*
-<h2> 🤳Connect with me:</h2>
-LINKEDIN>> https://linkedin.com/in/ivy-dzavies
+
