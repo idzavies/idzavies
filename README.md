@@ -1,4 +1,5 @@
 ## Hi there, I'm Ivy! 👋
+
 A passionate identity and Access Management (IAM) engineer learning and building hands-on expertise through home labs while acquiring certification skills.
 
 
@@ -28,6 +29,7 @@ A passionate identity and Access Management (IAM) engineer learning and building
 
   
 ## 👨‍💻Current Focus
+
 - OKTA Professsional Certificate
 - Active Directory - Hybrid
 - User Lifecycle Management
